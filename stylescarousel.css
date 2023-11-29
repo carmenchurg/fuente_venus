@@ -1,0 +1,18 @@
+
+.carousel-control-prev {
+    margin-left: 200px; 
+}
+
+.carousel-control-next{
+    margin-right: 220px; 
+}
+
+@media (max-width: 768px) {
+    .carousel-control-prev {
+        margin-left: 100px; 
+    }
+    
+    .carousel-control-next{
+        margin-right: 120px; 
+    }
+}
